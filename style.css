@@ -1,0 +1,40 @@
+h1{
+	color: hotpink;
+	background-color: lightblue;
+	text-align: center;
+	
+}
+#heading{
+	text-align: center;
+	text-transform: bold;
+}
+#body{
+
+	color: purple;
+	text-align: justify-all;
+}
+
+.item{
+	text-align: center;
+}
+
+#img{
+	background-color: black;
+    text-align: center;
+}
+
+#info{
+	color: purple;
+
+}
+h3{
+	text-align: center;
+	background-color: lightblue;
+}
+#list{
+	text-align: justify-all;
+}
+
+body{
+	background-color: lightgray;
+}
